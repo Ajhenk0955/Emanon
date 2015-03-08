@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AeroWizard</id>
+    <version>2.0.6</version>
+    <title>Windows Forms Aero-Wizard Control</title>
+    <authors>David Hall</authors>
+    <owners>David Hall</owners>
+    <licenseUrl>http://aerowizard.codeplex.com/license</licenseUrl>
+    <projectUrl>http://aerowizard.codeplex.com/</projectUrl>
+    <iconUrl>http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=aerowizard&amp;DownloadId=102968&amp;Build=17672</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library for easy creation of custom and Aero Wizards. Aero Wizard strictly follows Microsoft guidelines and uses Visual Styles to get visual theming.</description>
+    <summary>Wizard controls for Windows Forms.</summary>
+    <releaseNotes>https://aerowizard.codeplex.com/SourceControl/list/changesets</releaseNotes>
+    <language>en-US</language>
+    <tags>aero wizard control</tags>
+  </metadata>
+</package>
