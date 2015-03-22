@@ -7,12 +7,6 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
     <Grid>
-        <Grid.Background>
-            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                <GradientStop Color="#FFECEDF1" Offset="0"/>
-                <GradientStop Color="#FF1B46D3" Offset="1"/>
-            </LinearGradientBrush>
-        </Grid.Background>
         <Grid HorizontalAlignment="Center" Height="150" Margin="1,0,0,0" VerticalAlignment="Center" Width="300" Canvas.ZIndex="-1" Background="#FFCBC2C2">
             <TextBox HorizontalAlignment="Left" Margin="10,32,0,0" TextWrapping="Wrap" Text="Username:" VerticalAlignment="Top" Height="26" Width="100"/>
             <TextBox HorizontalAlignment="Left" Margin="10,86,0,0" TextWrapping="Wrap" Text="password:" VerticalAlignment="Top" Width="100"/>
